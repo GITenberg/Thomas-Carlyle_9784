@@ -1,0 +1,27 @@
+_repo: Thomas-Carlyle_9784
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nichol, John
+    birthdate: 1833
+    deathdate: 1894
+    gutenberg_agent_id: '3136'
+    url: http://www.gutenberg.org/2009/agents/3136
+    wikipedia: http://en.wikipedia.org/wiki/John_Nichol
+description: ''
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9784'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, Scottish -- 19th century -- Biography'
+- !lcsh 'Carlyle, Thomas, 1795-1881'
+- !lcc 'PR'
+- !lcsh 'Historians -- Great Britain -- Biography'
+- GITenberg
+title: Thomas Carlyle
+url: http://www.gutenberg.org/ebooks/9784
