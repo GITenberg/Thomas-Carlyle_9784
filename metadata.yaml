@@ -1,5 +1,8 @@
 _repo: Thomas-Carlyle_9784
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nichol, John
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3136
     wikipedia: http://en.wikipedia.org/wiki/John_Nichol
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9784#Thomas-Carlyle
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
 identifiers:
